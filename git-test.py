@@ -51,5 +51,5 @@ sayXit()
 
 
 #__init__
-#__main__
+#__main__ comment
 print(sayXit.__docstring__)
