@@ -52,4 +52,4 @@ sayXit()
 
 #__init__
 #__main__
-#__docstring__
+print(sayXit.__docstring__)
